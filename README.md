@@ -38,15 +38,15 @@ data.get(element)
 
 Get Events for a particular element
 
-![alt text](EventsAndMutations/img/1.png?raw=true)
+![alt text](https://raw.githubusercontent.com/DivyaGupta261/EventsAndMutations/master/img/1.png)
 
 Just Print 'data' in console to see all the events and elements
 
-![alt text](EventsAndMutations/img/2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/DivyaGupta261/EventsAndMutations/master/img/2.png)
 
-![alt text](EventsAndMutations/img/3.png?raw=true)
+![alt text](https://raw.githubusercontent.com/DivyaGupta261/EventsAndMutations/master/img/3.png)
 
-![alt text](EventsAndMutations/img/4.png?raw=true)
+![alt text](https://raw.githubusercontent.com/DivyaGupta261/EventsAndMutations/master/img/4.png)
 
 #Supported Events
 
